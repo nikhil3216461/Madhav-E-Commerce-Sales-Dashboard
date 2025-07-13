@@ -49,7 +49,7 @@ The dashboard is designed to provide **quick and actionable insights** with an e
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-screenshot.png)
+![Dashboard Screenshot]("C:\Users\nikhil sharma\OneDrive\Documents\MADHAV E -COMMERCE SALES DASHBOARD\Screenshot 2025-07-13 112254.png")
 
 ---
 
