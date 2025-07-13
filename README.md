@@ -94,8 +94,3 @@ This dashboard is ideal for:
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-sharma-2283a7257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
-
-## ⭐️ Support
-
-If you find this dashboard helpful, please give this repository a ⭐️ star and share it with your network!
-
